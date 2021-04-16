@@ -1,261 +1,238 @@
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Resume CV Design</title>
-	<link rel="stylesheet" href="styles.css">
-	<script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
-</head>
+<html>
+<link rel="stylesheet" href="css.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.css">
+</link>
+
 <body>
-	<div class="wrapper">
-		<div class="resume">
-			<div class="left">
-				<div class="img_holder">
-					<img src="pic.png" alt="picture">
-				</div>
-				<div class="contact_wrap pb">
-					<div class="title">
-						Contact
-					</div>
-					<div class="contact">
-						<ul>
-							<li>
-								<div class="li_wrap">
-									<div class="icon"><i class="fas fa-mobile-alt" aria-hidden="true"></i></div>
-									<div class="text">972 9838485</div>
-								</div>
-							</li>
-							<li>
-								<div class="li_wrap">
-									<div class="icon"><i class="fas fa-envelope" aria-hidden="true"></i></div>
-									<div class="text">aniabukstein@gmail.com</div>
-								</div>
-							</li>
-							<li>
-								<div class="li_wrap">
-									<div class="icon"><i class="fab fa-weebly" aria-hidden="true"></i></div>
-									<div class="text">www.aniabukstein.com</div>
-								</div>
-							</li>
-							<li>
-								<div class="li_wrap">
-									<div class="icon"><i class="fas fa-map-signs" aria-hidden="true"></i></div>
-									<div class="text">17 street, jerusalem, Israel</div>
-								</div>
-							</li>
-						</ul>
-					</div>
-				</div>
-				<div class="skills_wrap pb">
-					<div class="title">
-						Skills
-					</div>
-					<div class="skills">
-						<ul>
-							<li>
-								<div class="li_wrap">
-									<div class="icon"><i class="fab fa-html5"></i></div>
-									<div class="text">HTML</div>
-								</div>
-							</li>
-							<li>
-								<div class="li_wrap">
-									<div class="icon"><i class="fab fa-css3-alt"></i></div>
-									<div class="text">CSS</div>
-								</div>
-							</li>
-							<li>
-								<div class="li_wrap">
-									<div class="icon"><i class="fab fa-js"></i></div>
-									<div class="text">Javascript</div>
-								</div>
-							</li>
-							<li>
-								<div class="li_wrap">
-									<div class="icon"><i class="fab fa-react"></i></div>
-									<div class="text">React.JS</div>
-								</div>
-							</li>
-						</ul>
-					</div>
-				</div>
-				<div class="hobbies_wrap pb">
-					<div class="title">
-						hobbies
-					</div>
-					<div class="hobbies">
-						<ul>
-							<li>
-								<div class="li_wrap">
-									<div class="icon"><i class="fas fa-book"></i></div>
-									<div class="text">Reading</div>
-								</div>
-							</li>
-							<li>
-								<div class="li_wrap">
-									<div class="icon"><i class="fas fa-music"></i></div>
-									<div class="text">Music</div>
-								</div>
-							</li>
-							<li>
-								<div class="li_wrap">
-									<div class="icon"><i class="fas fa-gamepad"></i></div>
-									<div class="text">Gaming</div>
-								</div>
-							</li>
-							<li>
-								<div class="li_wrap">
-									<div class="icon"><i class="fas fa-tree"></i></div>
-									<div class="text">Gardening</div>
-								</div>
-							</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<div class="right">
-				<div class="header">
-					<div class="name_role">
-						<div class="name">
-							Ania Bukstein
-						</div>
-						<div class="role">
-							UI UX Developer
-						</div>
-					</div>
-					<div class="about">
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente dicta beatae optio, corporis fugit accusantium debitis laborum tenetur, quisquam distinctio nihil quam eum. Laudantium saepe, sunt, esse laboriosam dolores distinctio?
-					</div>
-				</div>
-				<div class="right_inner">
-					<div class="exp">
-						<div class="title">
-							experience
-						</div>
-						<div class="exp_wrap">
-							<ul>
-								<li>
-									<div class="li_wrap">
-										<div class="date">
-											2018 - Present
-										</div>
-										<div class="info">
-											<p class="info_title">
-												UI Team Lead
-											</p>
-											<p class="info_com">
-												Facebook
-											</p>
-											<p class="info_cont">
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga voluptatibus consequatur rem nostrum omnis! Architecto.
-											</p>
-										</div>
-									</div>
-								</li>
-								<li>
-									<div class="li_wrap">
-										<div class="date">
-											2015 - 2018
-										</div>
-										<div class="info">
-											<p class="info_title">
-												UI Developer
-											</p>
-											<p class="info_com">
-												Amazon
-											</p>
-											<p class="info_cont">
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga voluptatibus consequatur rem nostrum omnis! Architecto.
-											</p>
-										</div>
-									</div>
-								</li>
-								<li>
-									<div class="li_wrap">
-										<div class="date">
-											2014 - 2015
-										</div>
-										<div class="info">
-											<p class="info_title">
-												Junior UI Developer
-											</p>
-											<p class="info_com">
-												Coding Power
-											</p>
-											<p class="info_cont">
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga voluptatibus consequatur rem nostrum omnis! Architecto.
-											</p>
-										</div>
-									</div>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<div class="education">
-						<div class="title">
-							Education
-						</div>
-						<div class="education_wrap">
-							<ul>
-								<li>
-									<div class="li_wrap">
-										<div class="date">
-											2010 - 2014
-										</div>
-										<div class="info">
-											<p class="info_title">
-												Computer Science
-											</p>
-											<p class="info_com">
-												Israel University
-											</p>
-											<p class="info_cont">
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga voluptatibus consequatur rem nostrum omnis! Architecto.
-											</p>
-										</div>
-									</div>
-								</li>
-								<li>
-									<div class="li_wrap">
-										<div class="date">
-											2008 - 2010
-										</div>
-										<div class="info">
-											<p class="info_title">
-												Computer Science
-											</p>
-											<p class="info_com">
-												Israel Junior College
-											</p>
-											<p class="info_cont">
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga voluptatibus consequatur rem nostrum omnis! Architecto.
-											</p>
-										</div>
-									</div>
-								</li>
-								<li>
-									<div class="li_wrap">
-										<div class="date">
-											1998 - 2008
-										</div>
-										<div class="info">
-											<p class="info_title">
-												Schooling
-											</p>
-											<p class="info_com">
-												Israel School
-											</p>
-											<p class="info_cont">
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga voluptatibus consequatur rem nostrum omnis! Architecto.
-											</p>
-										</div>
-									</div>
-								</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+
+    <title>
+        Mehmet Akif Şahin Cv
+    </title>
+
+
+    <div class="namesurnamebox">
+        <div class="namesurname">
+            <h1 style="font-size: 36;">
+                Mehmet Akif Şahin
+            </h1>
+            <br>
+            <h2 style="font-size: 24;">
+                Bilgisayar Mühendisi
+            </h2>
+        </div>
+        <div class="profile-image">
+            <img class="image1" src="profile2.png" alt="profile image" width="100" height="100">
+        </div>
+    </div>
+
+    <div class="contact-space">
+        <div class="contact">
+            <i class="fas fa-envelope-square"></i><a class="link" href="mailto:mehmetak1261@gmail.com">
+                mehmetak1261@gmail.com</a>
+            <i class="fas fa-phone"></i><a class="link" href="tel:+905415266556">+905415266555</a>
+            <i class="fas fa-thumbtack"></i><a class="link">İstanbul / Türkiye</a>
+        </div>
+
+    </div>
+    <div style="width: 70%; margin: auto;">
+
+        <div class="float-container">
+
+            <div class="float-child-left">
+                <h1 class="title">
+                    EDUCATION
+                </h1>
+                <h2>
+                    Computer Engineering
+                </h2>
+                <h4>
+                    Istanbul University
+                </h4>
+                <p style="text-align:left; color: #4493ae; font-size: 22;">
+                    09/2017 - Present
+                    <span style="float:right; color: #4493ae;">
+                        İstanbul
+                    </span>
+                </p>
+
+
+                <br>
+                <h1 class="title">
+                    WORK EXPERIENCE
+                </h1>
+                <h2>
+                    Freelance Android Developer
+                </h2>
+                <h4>
+                    Remotely
+                </h4>
+                <p style="text-align:left; color: #4493ae; font-size: 22;">
+                    07/2020 - 09/2020
+                    <span style="float:right; color: #4493ae;">
+                        İstanbul
+                    </span>
+                </p>
+                <h6>
+                    + I contributed to the application's updates for 3 months.
+                </h6>
+                <h6>
+                    + App Link:https://play.google.com/store/apps/details?
+                    id=com.ekys.muduryardimci3
+                </h6>
+
+                <br><br>
+
+                <h2>
+                    Telegram Instant View Web Contestant
+                </h2>
+                <h4>
+                    Remotely
+                </h4>
+                <p style="text-align:left; color: #4493ae; font-size: 22;">
+                    02/2019 - 05/2019
+                    <span style="float:right; color: #4493ae;">
+                        İstanbul
+                    </span>
+                </p>
+                <h6>
+                    + Instant View allows Telegram users to view articles from
+                    around the Web in a consistent way, with zero loading time;
+                </h6>
+                <h6>
+                    + We were on top 12 in Telegram Instant View Contest as a
+                    team.
+                </h6>
+                <h6>
+                    + https://instantview.telegram.org/contest/winners2019.
+                </h6>
+            </div>
+
+            <div class="float-child-right">
+                <h1 class="title">
+                    SKILLS
+                </h1>
+                <br>
+                <div class="programming-languages">
+                    <p style="text-align:left; color: black; ">
+                        PHP
+                        <span style="float:right; color: black; font-size: 30px;">
+                            <i class="fas fa-circle"></i>
+                            <i class="fas fa-circle"></i>
+                            <i class="fas fa-circle"></i>
+                            <i class="far fa-circle"></i>
+                            <i class="far fa-circle"></i>
+                        </span>
+                    </p>
+                </div>
+                <br>
+                <div class="programming-languages">
+                    <p style="text-align:left; color: black;">
+                        Dart
+                        <span style="float:right; color: black; font-size: 30px;">
+                            <i class="fas fa-circle"></i>
+                            <i class="far fa-circle"></i>
+                            <i class="far fa-circle"></i>
+                            <i class="far fa-circle"></i>
+                            <i class="far fa-circle"></i>
+                        </span>
+                    </p>
+                </div>
+                <br>
+                <div class="programming-languages">
+                    <p style="text-align:left; color: black; ">
+                        C++
+                        <span style="float:right; color: black; font-size: 30px;">
+                            <i class="fas fa-circle"></i>
+                            <i class="fas fa-circle"></i>
+                            <i class="fas fa-circle"></i>
+                            <i class="far fa-circle"></i>
+                            <i class="far fa-circle"></i>
+                        </span>
+                    </p>
+                </div>
+                <br>
+                <div class="programming-languages">
+                    <p style="text-align:left; color: black; ">
+                        Java
+                        <span style="float:right; color: black; font-size: 30px;">
+                            <i class="fas fa-circle"></i>
+                            <i class="fas fa-circle"></i>
+                            <i class="fas fa-circle"></i>
+                            <i class="fas fa-circle"></i>
+                            <i class="far fa-circle"></i>
+                        </span>
+                    </p>
+                </div>
+                <br>
+                <div class="programming-languages">
+                    <p style="text-align:left; color: black; ">
+                        Javascript
+                        <span style="float:right; color: black; font-size: 30px;">
+                            <i class="fas fa-circle"></i>
+                            <i class="far fa-circle"></i>
+                            <i class="far fa-circle"></i>
+                            <i class="far fa-circle"></i>
+                            <i class="far fa-circle"></i>
+                        </span>
+                    </p>
+                </div>
+                <br>
+                <h1 class="title">
+                    PERSONAL PROJECTS
+                </h1>
+                <br>
+                <h2>
+                    Cv-Translater (01/2020 - Present)
+                </h2>
+                <h6>
+                    + This App helps when you want to create a cv which is automatically
+                    translated to german , can send a cv to abroad but this isn't published
+                    yet
+                </h6>
+                <h6>
+                    + https://github.com/makifsah12/Cv-Translater.
+                </h6>
+                <br>
+                <h1 class="title">
+                    ORGANIZATIONS
+                </h1>
+                <br>
+                <h4>
+                    Appcent Android Hackathon (11/2020 - 11/2020)
+                </h4>
+                <h6>
+                    We tried to develop an android application rapidly with the requests of Appcent company
+                </h6>
+                <br>
+                <h4>
+                    Google Developer Community (03/2020 - 03/2020)
+                </h4>
+                <h6>
+                    I participated to the android courses
+                </h6>
+                <br>
+                <h1 class="title">
+                    CERTIFICATES
+                </h1>
+                <h3>
+                    Udemy Course Android Developer Certificate
+                </h3>
+                <br>
+                <h1 class="title">
+                    LANGUAGES
+                </h1>
+                <h3>
+                    English
+                </h3>
+                <h6>
+                    Professional Working Proficiency
+                </h6>
+            </div>
+
+        </div>
+    </div>
+
 </body>
+
 </html>
