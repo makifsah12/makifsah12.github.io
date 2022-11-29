@@ -157,12 +157,10 @@ p {
   min-width: 170px;
 }
 .about .box .year_company h5 {
-  text-transform: uppercase;
   color: #848c90;
   font-weight: 600;
 }
 .about .box .text h4 {
-  text-transform: uppercase;
   color: #2a7da2;
   font-size: 16px;
 }
@@ -197,6 +195,12 @@ p {
   grid-template-columns: repeat(4, 1fr);
 }
 .interest ul li {
+  list-style: none;
+  color: black;
+  font-weight: 400;
+  margin: 10px 0px;
+}
+.projects ul li {
   list-style: none;
   color: black;
   font-weight: 400;
