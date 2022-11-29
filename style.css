@@ -199,8 +199,8 @@ p {
 .interest ul li {
   list-style: none;
   color: black;
-  font-weight: 500;
-  margin: 10px 0;
+  font-weight: 400;
+  margin: 10px 0px;
 }
 .interest ul li .fa {
   color: #03a9f4;
